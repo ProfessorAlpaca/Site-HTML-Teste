@@ -1,0 +1,292 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.Logo {
+    position: absolute;
+    left: 129.62%;
+    right: 56.05%;
+    top: -91.00%;
+    bottom: -1.64%;
+    
+}
+
+.Data {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 60.40%;
+    right: 30.25%;
+    top: calc(50% - 17px/2 - 220.5px);
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+    
+}
+
+.Primeira {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 50.33%;
+    right: 39.15%;
+    top: calc(50% - 17px/2 - 142.5px);
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+
+}
+
+.WagamamaP1 {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 63.52%;
+    right: 30.26%;
+    top: calc(50% - 17px/2 - 142.5px);
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+}
+
+.Segunda {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 50.33%;
+    right: 38.97%;
+    top: calc(50% - 17px/2 - 95.5px);
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+    
+}
+
+.PizzaP2 {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 63.52%;
+    right: 30.26%;
+    top: calc(50% - 17px/2 - 95.5px);
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+
+}
+
+.Terceira {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 50.33%;
+    right: 39.32%;
+    top: calc(50% - 17px/2 - 50.5px);
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+
+}
+
+.FeeP3 {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 64.04%;
+    right: 30.26%;
+    top: calc(50% - 17px/2 - 50.5px);
+    font-family: 'Montserrat';  
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+
+}
+
+.TotalSum {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 50.53%;
+    right: 43.76%;
+    top: calc(50% - 17px/2 + 134.52px);
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;    
+
+}
+
+.final {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 41px;
+    left: 60.90%;
+    right: 30.26%;
+    top: calc(50% - 41px/2 + 130.52px);    
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 34px;
+    line-height: 41px;
+    font-style: bold;
+    color: #55617D; 
+}
+
+.CostumerSupport {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 50.53%;
+    right: 35.47%;
+    top: calc(50% - 17px/2 + 190px);
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+} 
+
+.SetaCS {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 64.30%;
+    right: 30.26%;
+    top: calc(50% - 17px/2 + 190px);
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+} 
+
+.Tracking {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 50.53%;
+    right: 37.35%;
+    top: calc(50% - 17px/2 + 219px);
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+
+}
+
+.SetaTR {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 64.30%;
+    right: 30.26%;
+    top: calc(50% - 17px/2 + 219px);
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: bold;
+    color: #55617D;
+} 
+
+.Summary {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 17px;
+    left: 29.65%;
+    right: 58.38%;
+    top: calc(50% - 17px/2 - 173.5px);
+    font-size: 16px;
+    font-weight: 1000;
+    line-height: 17px;
+    font-style: bold;
+    font-family: 'Montserrat';
+    color: #FFFF;
+   
+
+}
+
+.Title {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 40px;
+    left: 30.12%;
+    right: 57.44%;
+    top: calc(50% - 40px/2 - 215px);
+    font-size: 35px;
+    font-weight: 1000;
+    line-height: 40px;
+    font-style: bold;
+    font-family: 'Montserrat';
+    color: #FFFF;
+
+}
+
+.Bolsa {
+    position: absolute;
+    left: 27.09%;
+    right: 60.44%;
+    top: 50.74%;
+    bottom: 15.51%;
+
+}
+
+.Bebida {
+    position: absolute;
+    left: 67.34%;
+    right: -59.34%;
+    top: -22.40%;
+    bottom: 45.51%;
+
+}
+
+.Leite {
+    position: absolute;
+    left: 31.34%;
+    right: -59.34%;
+    top: 71.40%;
+    bottom: 45.51%;
+
+}
